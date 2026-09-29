@@ -22,4 +22,6 @@ Temporary link to NAWI.
 https://anthonyptrv.github.io/Distil/Links/R2Nawi.html   
 www.nawihub.org     
 
-
+Link for GPIW26 to reddit
+https://anthonyptrv.github.io/Distil/Links/GPIW26_2Reddit.html
+!!!!!!!!!!
