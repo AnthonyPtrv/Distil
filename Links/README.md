@@ -1,27 +1,21 @@
 Links:  
-Analytics  
-https://analytics.google.com/analytics/web/#/a282668783p403782661/reports/intelligenthome  
+Analytics  https://analytics.google.com/analytics/web/#/a282668783p403782661/reports/intelligenthome  
 
 
-Reddit FAQ , PDF  
-https://anthonyptrv.github.io/Distil/Links/RedditFAQ.html  
+Reddit FAQ , PDF  https://anthonyptrv.github.io/Distil/Links/RedditFAQ.html  
 https://drive.google.com/file/d/1-t6k1_F2so1zlGjtGMmZRHt1JGKBvQAa/view?usp=sharing    
 
 
-Youtube animation of PX.  
-https://anthonyptrv.github.io/Distil/Links/PXanimation.html   
+Youtube animation of PX.  https://anthonyptrv.github.io/Distil/Links/PXanimation.html   
 https://www.youtube.com/watch?v=TdtnXQPl2bs      
 
 
-Youtube animation of PX from Reddit FAQ.  
-https://anthonyptrv.github.io/Distil/Links/R2PXanim.html   
+Youtube animation of PX from Reddit FAQ.  https://anthonyptrv.github.io/Distil/Links/R2PXanim.html   
 https://www.youtube.com/watch?v=TdtnXQPl2bs 
 
 
-Temporary link to NAWI.  
-https://anthonyptrv.github.io/Distil/Links/R2Nawi.html   
+Temporary link to NAWI.  https://anthonyptrv.github.io/Distil/Links/R2Nawi.html   
 www.nawihub.org     
 
-Link for GPIW26 to reddit
-https://anthonyptrv.github.io/Distil/Links/GPIW26_2Reddit.html
+Link for GPIW26 to reddit https://anthonyptrv.github.io/Distil/Links/GPIW26_2Reddit.html
 !!!!!!!!!!
