@@ -5,7 +5,7 @@ Analytics  https://analytics.google.com/analytics/web/#/a282668783p403782661/rep
 Reddit FAQ , PDF  https://anthonyptrv.github.io/Distil/Links/RedditFAQ.html  
 https://drive.google.com/file/d/1-t6k1_F2so1zlGjtGMmZRHt1JGKBvQAa/view?usp=sharing 
 
-Reddit FAQ , PDF  https://anthonyptrv.github.io/Distil/Links/RedditArticle.html
+Reddit article , PDF  https://anthonyptrv.github.io/Distil/Links/RedditArticle.html
 https://drive.google.com/file/d/1jsScTagEzbNYSxq37ztAQi6GkpGyXl8q/view?usp=sharing
 
 
